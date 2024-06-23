@@ -1,0 +1,4 @@
+﻿  Math-Game-Project.cpp
+C:\Users\Mega\source\repos\Math-Game-Project\Math-Game-Project.cpp(175,8): warning C4101: 'Answer': unreferenced local variable
+C:\Users\Mega\source\repos\Math-Game-Project\Math-Game-Project.cpp(97,1): warning C4715: 'SimpleCalculator': not all control paths return a value
+  Math-Game-Project.vcxproj -> C:\Users\Mega\source\repos\Math-Game-Project\x64\Debug\Math-Game-Project.exe
